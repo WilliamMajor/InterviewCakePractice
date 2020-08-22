@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PermutationPalindrome", "Pe
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wordCloud", "wordCloud\wordCloud.vcxproj", "{1638B23B-2FF6-4D25-B798-AAEB6F3AC6FD}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "appleStock", "appleStock\appleStock.vcxproj", "{546D1043-34DB-47FD-B902-89D8C186F7A3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{1638B23B-2FF6-4D25-B798-AAEB6F3AC6FD}.Release|x64.Build.0 = Release|x64
 		{1638B23B-2FF6-4D25-B798-AAEB6F3AC6FD}.Release|x86.ActiveCfg = Release|Win32
 		{1638B23B-2FF6-4D25-B798-AAEB6F3AC6FD}.Release|x86.Build.0 = Release|Win32
+		{546D1043-34DB-47FD-B902-89D8C186F7A3}.Debug|x64.ActiveCfg = Debug|x64
+		{546D1043-34DB-47FD-B902-89D8C186F7A3}.Debug|x64.Build.0 = Debug|x64
+		{546D1043-34DB-47FD-B902-89D8C186F7A3}.Debug|x86.ActiveCfg = Debug|Win32
+		{546D1043-34DB-47FD-B902-89D8C186F7A3}.Debug|x86.Build.0 = Debug|Win32
+		{546D1043-34DB-47FD-B902-89D8C186F7A3}.Release|x64.ActiveCfg = Release|x64
+		{546D1043-34DB-47FD-B902-89D8C186F7A3}.Release|x64.Build.0 = Release|x64
+		{546D1043-34DB-47FD-B902-89D8C186F7A3}.Release|x86.ActiveCfg = Release|Win32
+		{546D1043-34DB-47FD-B902-89D8C186F7A3}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
