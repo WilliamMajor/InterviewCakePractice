@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "appleStock", "appleStock\ap
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "highestSumOfThree", "highestSumOfThree\highestSumOfThree.vcxproj", "{6A5FCE1E-3133-47CF-B706-6015863BB00D}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProductOfAllExceptAtIndex", "ProductOfAllExceptAtIndex\ProductOfAllExceptAtIndex.vcxproj", "{886989F7-E989-404C-9F7D-70E27323171B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -101,6 +103,14 @@ Global
 		{6A5FCE1E-3133-47CF-B706-6015863BB00D}.Release|x64.Build.0 = Release|x64
 		{6A5FCE1E-3133-47CF-B706-6015863BB00D}.Release|x86.ActiveCfg = Release|Win32
 		{6A5FCE1E-3133-47CF-B706-6015863BB00D}.Release|x86.Build.0 = Release|Win32
+		{886989F7-E989-404C-9F7D-70E27323171B}.Debug|x64.ActiveCfg = Debug|x64
+		{886989F7-E989-404C-9F7D-70E27323171B}.Debug|x64.Build.0 = Debug|x64
+		{886989F7-E989-404C-9F7D-70E27323171B}.Debug|x86.ActiveCfg = Debug|Win32
+		{886989F7-E989-404C-9F7D-70E27323171B}.Debug|x86.Build.0 = Debug|Win32
+		{886989F7-E989-404C-9F7D-70E27323171B}.Release|x64.ActiveCfg = Release|x64
+		{886989F7-E989-404C-9F7D-70E27323171B}.Release|x64.Build.0 = Release|x64
+		{886989F7-E989-404C-9F7D-70E27323171B}.Release|x86.ActiveCfg = Release|Win32
+		{886989F7-E989-404C-9F7D-70E27323171B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
